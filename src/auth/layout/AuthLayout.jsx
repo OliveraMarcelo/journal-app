@@ -2,6 +2,7 @@
 
 import { Grid, Typography } from "@mui/material";
 
+// eslint-disable-next-line react/prop-types
 export const AuthLayout = ({ children, title = "" }) => {
     return (
         <>
